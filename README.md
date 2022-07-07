@@ -1,2 +1,2 @@
-## hi there
-![](./image/hi.gif|width=100)
+
+![](./image/hi.gi =100*100)
