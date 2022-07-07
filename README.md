@@ -1,1 +1,1 @@
-![]('./image/hi.gif')
+![]('/image/hi.gif')
